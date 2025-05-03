@@ -1,46 +1,76 @@
+# 👋 Hi, I'm Abdullahi Sani Mohammed
 
 I'm on a mission to change how the world sees software.
 
-🌱 I'm building the next generation of software applications.
+🚀 I'm a result-driven Software Engineer with over **6 years** of experience crafting high-performance web and mobile applications. I specialize in **JavaScript/TypeScript**, **Next.js**, **NestJS**, and **cloud-native architectures**, with proven success in building products for startups, SaaS platforms, and large-scale enterprise systems.
 
-🍁 I am also developing the next version of AI trading bots that are consistent and profitable.
+### 🌍 Based in Kano, Nigeria  
+📧 [abdullahismohd3000@gmail.com](mailto:abdullahismohd3000@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abdullahi-sani-mohammed/)  
+💻 [GitHub](https://github.com/Abdullahi-design)
 
-Over the past two years, I've built four software applications that help people achieve their goals faster:
+---
 
-1. **Akainu-V1**: Prototype SAAS app managing employee work rates and payments <br>
+## 🔧 What I Do
 
-2. **Slot-Trader**: Financial crypto trading bot that monitors the crypto market and<br>
-executes trades based on a predetermined set of criteria, such as<br>
-identifying and taking advantage of long-term trends.<br>
+- Build scalable, full-stack apps with modern frameworks like **Next.js**, **NestJS**, and **Vue.js**
+- Lead cross-functional teams to deliver solutions across **web**, **mobile**, and **cloud**
+- Architect systems for **performance, scalability, and maintainability**
+- Passionate about **UI/UX**, **developer experience**, and impactful software
 
-3. **Ofalos**: Automated blog site powered by ChatGPT’s API.<br>
+---
 
-4. **Wariate**: AI-driven website that provides instant answers and solutions to<br>
-student assignments and projects, powered by OpenAI's GPT<br>
-technology.<br>
+## 🧠 Notable Projects
 
-## About Me
+### 🐄 [Livestock Nigeria](#)
+**Lead Developer** – *Next.js, NestJS, AWS, Vercel, Render*  
+A national mapping platform that helps farmers in Nigeria locate nearby livestock resources like water points, feed mills, and veterinary services.  
+- Spearheaded frontend and backend architecture
+- Built real-time geolocation, routing, and alert systems
+- Managed a team of mobile developers and handled multi-cloud deployment
 
-Result-oriented Software Engineer with over 4 years of experience building amazing
-web
-applications,
-coordinating
-cross-functional
-teams,
-optimizing
-code
-for
-performance and simplifying complex technical details for non-technical stakeholders.
+### 📦 [Filarra](#)
+**Fullstack Developer** – *Vue.js, NestJS*  
+An e-commerce fulfillment center platform with inventory tracking and order management.  
+- Implemented multi-role authentication and real-time stock updates
 
-- Location: [Kano, Nigeria]
-- Portfolio: [Github](https://github.com/Abdullahi-design)
-- LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/abdullahi-sani-mohammed/)
-- Email: [gmail](abdullahismohd3000@gmail.com)
+### 🧠 [Wariate AI](#)
+**Lead Developer** – *Next.js, Express, CouchDB*  
+AI platform that delivers instant university assignment/project solutions using OpenAI GPT.
 
+### 💼 [Akainu-V1](#)
+**Founder & Engineer** – *Next.js, Hygraph, GraphQL*  
+SAAS app for managing employee work rates and payments.  
+- Reduced admin overhead by 30%  
+- Increased operational efficiency across departments
 
-## Contact
+### 🤖 [Slot-Trader](#)
+AI-driven crypto trading bot that identifies long-term market trends and executes automated trades for consistent gains.
 
-Feel free to reach out to me via email at abdullahismohd3000@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahi-sani-mohammed/)
+### ✍️ [Ofalos](#)
+Automated blog platform powered by OpenAI’s GPT technology, simplifying content creation for non-technical users.
 
-Join me, and together, we have the power to revolutionize the software industry and build amazing software solutions that shape the future. <br>
-Let's collaborate and make an impact!
+### 🛍️ [Hudsuller](#)
+Marketplace MVP empowering African creators to sell and manage digital products, built with **Next.js**, **Tailwind**, **MongoDB**, and **AWS S3**.
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages & Frameworks**: JavaScript, TypeScript, React.js, Vue.js, Node.js, NestJS, Express
+- **Cloud & DevOps**: AWS, Vercel, Render, Heroku, Azure, CI/CD
+- **Databases**: MongoDB, Neo4j, SQL, NoSQL
+- **Tools**: Git, Docker, REST, GraphQL, WebSockets, Tailwind CSS
+- **Blockchain**: Web3, Rust, Solana, Near Protocol
+- **Soft Skills**: Team Leadership, Agile, System Design, Communication
+
+---
+
+## ✉️ Contact
+
+I'm always open to collaboration, consulting, or new ideas.  
+📩 Reach out at **[abdullahismohd3000@gmail.com](mailto:abdullahismohd3000@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/abdullahi-sani-mohammed/)
+
+---
+
+> Let’s build the future — one line of code at a time.
