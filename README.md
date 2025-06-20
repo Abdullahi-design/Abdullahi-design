@@ -23,8 +23,8 @@ I'm on a mission to change how the world sees software.
 ## 🧠 Notable Projects
 
 ### 🐄 [Livestock Nigeria](#)
-**Lead Developer** – *Next.js, NestJS, AWS, Vercel, Render*  
-A national mapping platform that helps farmers in Nigeria locate nearby livestock resources like water points, feed mills, and veterinary services.  
+**Head of ICT** – *Next.js, NestJS, AWS, Vercel, Render*  
+A national mapping platform that helps farmers in Nigeria locate nearby livestock resources like water points, feed mills, and veterinary services. **-Founded by world Bank**
 - Spearheaded frontend and backend architecture
 - Built real-time geolocation, routing, and alert systems
 - Managed a team of mobile developers and handled multi-cloud deployment
